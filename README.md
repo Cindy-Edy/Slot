@@ -1,4 +1,4 @@
-Check out a new version written in PixiJS (https://github.com/n1md7/mini-slot)
+Check out a new version written in PixiJS (https://cindy-edy.github.io/Slot/1/)
 
 ## Slot Game with Configurable GUI
 
